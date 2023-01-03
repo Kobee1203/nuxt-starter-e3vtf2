@@ -1,5 +1,5 @@
 import { describe, beforeEach, afterEach, test, expect, vi } from 'vitest';
-import { cache } from '~~/server/lib/caching/cache-manager';
+import { cache } from '~/server/lib/caching/cache-manager';
 
 describe('My test', () => {
   test('my test', () => {
